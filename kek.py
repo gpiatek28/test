@@ -1,8 +1,4 @@
 def hello():
-    print('Cześć')
-    print("Cześć!!")
-    print(('Cześć!!!'))
+    print('Hay')
 
-hello()
-hello()
 hello()
